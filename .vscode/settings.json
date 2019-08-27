@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/dsutanto/.virtualenvs/siap/bin/python",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
